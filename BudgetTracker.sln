@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36221.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetTracker", "BudgetTracker\BudgetTracker.csproj", "{32AB0491-9349-47B9-A065-226720CA5DD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BudgetTracker.Core", "BudgetTracker.Core\BudgetTracker.Core.csproj", "{795B7AB7-0DBB-4D93-97CF-FF544A8661BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32AB0491-9349-47B9-A065-226720CA5DD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32AB0491-9349-47B9-A065-226720CA5DD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32AB0491-9349-47B9-A065-226720CA5DD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32AB0491-9349-47B9-A065-226720CA5DD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{795B7AB7-0DBB-4D93-97CF-FF544A8661BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795B7AB7-0DBB-4D93-97CF-FF544A8661BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795B7AB7-0DBB-4D93-97CF-FF544A8661BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795B7AB7-0DBB-4D93-97CF-FF544A8661BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFB8F42B-A353-4C6D-B954-E97B74E04EC0}
+	EndGlobalSection
+EndGlobal
