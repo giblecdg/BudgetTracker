@@ -20,6 +20,7 @@ A minimalist console app for tracking expenses with category support, CSV export
 
 - C#
 - .NET
+- LINQ
 - Object-Oriented Programming (OOP)
 - System.IO (file handling for CSV and JSON)
 
