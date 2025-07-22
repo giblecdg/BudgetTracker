@@ -70,7 +70,6 @@ namespace BudgetTracker
             BudgetManager.AddNewExpenseToList(amount, description, category, date);
 
             Console.WriteLine($"Added: \nAmount: {amount:F2}$\nDescription: {description}\nCategory: {category}\nDate: {date.ToString("dd/MM/yyyy")}");
-            Console.WriteLine();
         }
         private void DisplayAllExpenses()
         {
@@ -86,8 +85,6 @@ namespace BudgetTracker
                     Console.WriteLine($"{expenseIndex}. {item}");
                     expenseIndex++;
                 }
-
-                Console.WriteLine();
             }
             else
             {
